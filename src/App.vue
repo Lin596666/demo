@@ -1,16 +1,7 @@
 <template>
-  <div class="home">
-    <h2>home</h2>
-  </div>
+    <el-button type="primary">Primary</el-button>
+
 </template>
 
-<script setup lang="ts"></script>
-
-<style lang="scss" scoped>
-.home {
-  width: 100px;
-  h2 {
-    color: aqua;
-  }
-}
-</style>
+<script lang="ts" setup>
+</script>
